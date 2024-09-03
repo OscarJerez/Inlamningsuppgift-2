@@ -1,60 +1,133 @@
+
+Vattenfallsmetoden!
+
 Utveckling av ett säkerhetssystem för en flygplats
 
 Projekt: Implementera ett omfattande säkerhetssystem för en internationell flygplats.
+I den här uppdaterade planen inkluderar även scheman, tidsplaner och flöden.
 
 Kravinsamling:
 
-•	Intervjuer med flygplatspersonal, säkerhetsexperter, och myndigheter.
+Tid: 2 veckors period
 
-•	Specifikation av säkerhetskrav inklusive övervakning, åtkomstkontroll, och incidenthantering.
+• Aktiviteter:
 
-•	Identifiering av systemintegrationer med befintliga flygplatsinformationssystem.
+    •	Intervjuer med flygplatspersonal, säkerhetsexperter, och myndigheter.
+
+    •	Specifikation av säkerhetskrav inklusive övervakning, åtkomstkontroll, och incidenthantering.
+
+    •	Identifiering av systemintegrationer med befintliga flygplatsinformationssystem.
+
+• Resultat: Dokumenterade krav och specifikationer
 
 Designfas:
 
-•	Design av nätverksarkitektur för att säkerställa säker dataöverföring.
+Tid 3 veckors period
 
-•	Planering av kameraövervakningssystem med ansiktsigenkänning och automatiska larm.
+• Aktiviteter:
 
-•	Utformning av åtkomstkontrollsystem för personal och besökare.
+    •	Design av nätverksarkitektur för att säkerställa säker dataöverföring.
+
+    •	Planering av kameraövervakningssystem med ansiktsigenkänning och automatiska larm.
+
+    •	Utformning av åtkomstkontrollsystem för personal och besökare.
+
+• Resultat: Tekniska specifikationer och designdokument
 
 Implementering:
 
-•	Installering av säkerhetskameror och anslutning till centrala kontrollrum.
+Tid: 6 veckors period
 
-•	Utveckling av mjukvara för övervakning och incidenthantering.
+• Aktiviteter:
 
-•	Implementering av biometriska åtkomstsystem vid kritiska ingångar.
+    •	Installering av säkerhetskameror och anslutning till centrala kontrollrum.
+
+    •    Utveckling av mjukvara för övervakning och incidenthantering.
+
+    •	Implementering av biometriska åtkomstsystem vid kritiska ingångar.
+
+• Resultat: Fysisk installation och funktionella system
 
 Testning:
 
-•	Enhetstester av varje komponent (kameror, larm, åtkomstsystem).
+Tid: 2 veckors period
 
-•	Integreringstest för att säkerställa att alla system fungerar tillsammans.
+• Aktiviteter:
 
-•	Säkerhetstester för att identifiera eventuella sårbarheter.
+    •	Enhetstester av varje komponent (kameror, larm, åtkomstsystem).
+
+    •	Integreringstest för att säkerställa att alla system fungerar tillsammans.
+
+    •	Säkerhetstester för att identifiera eventuella sårbarheter.
+
+• Resultat: Godkända tekniska rapporter
+
 
 Distribution:
 
-•	Fältinstallation av alla säkerhetsenheter.
+Tid: 1 veckors period
 
-•	Driftssättning av säkerhetssystemet i olika faser för att minimera störningar.
+• Aktiviteter:
 
-•	Träning av säkerhetspersonal på nya system och rutiner.
+    •	Fältinstallation av alla säkerhetsenheter.
+
+    •	Driftssättning av säkerhetssystemet i olika faser för att minimera störningar.
+
+    •	Träning av säkerhetspersonal på nya system och rutiner.
+
+• Resultat: Fullt driftsättat system
 
 Underhåll:
 
-•	Löpande övervakning och underhåll av kameror och nätverk.
+• Pågående process
 
-•	Regelbundna systemuppdateringar och säkerhetsuppgraderingar.
+• Aktiviteter:
 
-•	Incidentanalys och förbättringar av systemet baserat på verkliga händelser.
+    •	Löpande övervakning och underhåll av kameror och nätverk.
+
+    •	Regelbundna systemuppdateringar och säkerhetsuppgraderingar.
+
+    •	Incidentanalys och förbättringar av systemet baserat på verkliga händelser.
+
+• Resultat: Kontinuerligt förbättrat och säkert system
 
 Nyckelkomponenter:
 
 •	IP-kameror med hög upplösning
+    inköp: 100.000kr/sektion
 
 •	Biometriska autentiseringssystem
+    kostnad: 10.000kr/enhet
 
 •	Centraliserat övervaknings- och hanteringssystem
+    krav: Arbetsgrupp i minst 5 personer plus 10 vikarier.
 
+
+
+Tidplan
+Fas	            Varaktighet	    Startdatum	Sluttidpunkt
+Kravinsamling	2 veckor	    01/04/2024	15/04/2024
+Design	        3 veckor	    16/04/2024	06/05/2024
+Implementering	6 veckor	    07/05/2024	17/06/2024
+Testning	    2 veckor	    18/06/2024	30/06/2024
+Distribution	1 vecka	        01/07/2024	05/07/2024
+Underhåll	    Ongoing	        06/07/2024	Ongoing
+
+
+Viktiga punkter att notera:
+1. Kravinsamlingen är en kritisk fas som säkerställer att alla aspekter av säkerheten täcks.
+2. Designfasen är nyckelfasen där tekniska specifikationer utarbetas.
+3. Implementeringen är den mest tidskrävande fasen, men den är också avgörande för systemets framgång.
+4. Testningen är en viktig säkerhetskontroll som säkerställer att systemet fungerar korrekt innan distribution.
+5. Distributionen bör ske i fasar för att minimera störningar i flygplatsdriften.
+6. Underhållet är en oavbruten process som säkerställer att systemet fortsätter att fungera optimalt över tid.
+
+Genom att följa denna plan och vara noggrann med varje fas, kan man säkerställa en effektiv och säker implementering av det nya säkerhetssystemet på flygplatsen.""
+
+Flöde för implementering: 
+Installera kameror. 
+Utveckla mjukvara. 
+Implementera biometrisk autentisering. 
+Testa system.
+Driftssättning.
+Träna personal.
