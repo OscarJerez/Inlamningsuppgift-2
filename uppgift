@@ -1,0 +1,60 @@
+Utveckling av ett säkerhetssystem för en flygplats
+
+Projekt: Implementera ett omfattande säkerhetssystem för en internationell flygplats.
+
+Kravinsamling:
+
+•	Intervjuer med flygplatspersonal, säkerhetsexperter, och myndigheter.
+
+•	Specifikation av säkerhetskrav inklusive övervakning, åtkomstkontroll, och incidenthantering.
+
+•	Identifiering av systemintegrationer med befintliga flygplatsinformationssystem.
+
+Designfas:
+
+•	Design av nätverksarkitektur för att säkerställa säker dataöverföring.
+
+•	Planering av kameraövervakningssystem med ansiktsigenkänning och automatiska larm.
+
+•	Utformning av åtkomstkontrollsystem för personal och besökare.
+
+Implementering:
+
+•	Installering av säkerhetskameror och anslutning till centrala kontrollrum.
+
+•	Utveckling av mjukvara för övervakning och incidenthantering.
+
+•	Implementering av biometriska åtkomstsystem vid kritiska ingångar.
+
+Testning:
+
+•	Enhetstester av varje komponent (kameror, larm, åtkomstsystem).
+
+•	Integreringstest för att säkerställa att alla system fungerar tillsammans.
+
+•	Säkerhetstester för att identifiera eventuella sårbarheter.
+
+Distribution:
+
+•	Fältinstallation av alla säkerhetsenheter.
+
+•	Driftssättning av säkerhetssystemet i olika faser för att minimera störningar.
+
+•	Träning av säkerhetspersonal på nya system och rutiner.
+
+Underhåll:
+
+•	Löpande övervakning och underhåll av kameror och nätverk.
+
+•	Regelbundna systemuppdateringar och säkerhetsuppgraderingar.
+
+•	Incidentanalys och förbättringar av systemet baserat på verkliga händelser.
+
+Nyckelkomponenter:
+
+•	IP-kameror med hög upplösning
+
+•	Biometriska autentiseringssystem
+
+•	Centraliserat övervaknings- och hanteringssystem
+
