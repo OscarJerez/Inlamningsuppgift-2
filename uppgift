@@ -104,13 +104,13 @@ Nyckelkomponenter:
 
 
 
-Tidplan
+Tidplan:
 Fas	            Varaktighet	    Startdatum	Sluttidpunkt
-Kravinsamling	2 veckor	    01/04/2024	15/04/2024
+Kravinsamling   2 veckor	    01/04/2024	15/04/2024
 Design	        3 veckor	    16/04/2024	06/05/2024
-Implementering	6 veckor	    07/05/2024	17/06/2024
+Implementering  6 veckor	    07/05/2024	17/06/2024
 Testning	    2 veckor	    18/06/2024	30/06/2024
-Distribution	1 vecka	        01/07/2024	05/07/2024
+Distribution    1 vecka	        01/07/2024	05/07/2024
 Underhåll	    Ongoing	        06/07/2024	Ongoing
 
 
